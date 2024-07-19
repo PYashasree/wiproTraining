@@ -1,0 +1,10 @@
+{
+    "employees":[
+        {"firstName":"yashu", "lastName":"reddy", "gender":"female","salary":8000,"country":"USA"},
+        {"firstName":"lahari", "lastName":"guru", "gender":"female","salary":1000,"country":"UK"},
+        {"firstName":"sravya", "lastName":"bolle", "gender":"female","salary":5000,"country":"canada"},
+        {"firstName":"likki", "lastName":"madasu", "gender":"female","salary":3000,"country":"Australia"}
+              
+
+    ]
+}

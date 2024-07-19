@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day17_task2\\day17_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|solutionrelative:day17_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\day17_task2\\emplyeeinfo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|solutionrelative:day17_task2\\emplyeeinfo.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\day17_task2\\emplyeeinfo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|solutionrelative:day17_task2\\emplyeeinfo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\day17_task2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|solutionrelative:day17_task2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\day17_task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066AAA93-C250-443A-B5E6-D4B3EBD26438}|Day17_Task2\\Day17_Task2.csproj|solutionrelative:day17_task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Department.cs",
+              "RelativeDocumentMoniker": "Day17_Task2\\Department.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Department.cs",
+              "RelativeToolTip": "Day17_Task2\\Department.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:39:51.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Employee.cs",
+              "RelativeDocumentMoniker": "Day17_Task2\\Employee.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Employee.cs",
+              "RelativeToolTip": "Day17_Task2\\Employee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:39:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmplyeeInfo.Context.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\EmplyeeInfo.Context.cs",
+              "RelativeDocumentMoniker": "Day17_Task2\\EmplyeeInfo.Context.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\EmplyeeInfo.Context.cs",
+              "RelativeToolTip": "Day17_Task2\\EmplyeeInfo.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:38:53.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmplyeeInfo.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\EmplyeeInfo.edmx",
+              "RelativeDocumentMoniker": "Day17_Task2\\EmplyeeInfo.edmx",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\EmplyeeInfo.edmx [Diagram1]",
+              "RelativeToolTip": "Day17_Task2\\EmplyeeInfo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-22T11:37:22.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Day17_Task2\\Program.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day17_Task2\\Day17_Task2\\Program.cs",
+              "RelativeToolTip": "Day17_Task2\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:56:16.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

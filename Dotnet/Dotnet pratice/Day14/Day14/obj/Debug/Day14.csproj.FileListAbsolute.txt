@@ -1,0 +1,7 @@
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\bin\Debug\Day14.exe.config
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\bin\Debug\Day14.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\bin\Debug\Day14.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\obj\Debug\Day14.csproj.AssemblyReference.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\obj\Debug\Day14.csproj.CoreCompileInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\obj\Debug\Day14.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day14\Day14\obj\Debug\Day14.pdb

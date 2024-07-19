@@ -1,0 +1,14 @@
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\bin\Debug\net8.0\Day15_Task1.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\bin\Debug\net8.0\Day15_Task1.deps.json
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\bin\Debug\net8.0\Day15_Task1.runtimeconfig.json
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\bin\Debug\net8.0\Day15_Task1.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\bin\Debug\net8.0\Day15_Task1.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.AssemblyInfoInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.AssemblyInfo.cs
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.csproj.CoreCompileInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\refint\Day15_Task1.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\Day15_Task1.genruntimeconfig.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day15_Task1\Day15_Task1\obj\Debug\net8.0\ref\Day15_Task1.dll

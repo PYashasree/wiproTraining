@@ -1,0 +1,151 @@
+select * from emps;
+insert into emps values(10,'kittu',40000,35);
+commit
+
+insert into emps values(12,'yash',90000,45);
+
+rollback;
+
+
+create table emp10
+(
+id number(10),
+name varchar2(30),
+email varchar2(30),
+mobileno varchar2(30)
+);
+commit;
+insert into emp10 values(1,'rohit','rohit@gmail.com','765387894');
+commit;
+
+select * from emp10;
+
+update emp10 set name='rohit kumar' where id=1;
+
+savepoint 'h';
+
+update emp10 set name='rohit23@gmail.com' where id=1;
+
+rollback;
+
+create table hydoffice(
+id number(10),
+name varchar2(30),
+age number(10)
+);
+
+insert into hydoffice values(1,'yashu',25);
+insert into hydoffice values(2,'yashasree',23);
+insert into hydoffice values(3,'yash',27);
+insert into hydoffice values(4,'sree',28);
+insert into hydoffice values(5,'sri',26);
+
+create table bnglroffice(
+id number(10),
+name varchar2(30),
+age number(10)
+);
+
+insert into bnglroffice values(1,'yashu',25);
+insert into bnglroffice values(2,'yashasree',23);
+insert into bnglroffice values(3,'kamal',35);
+insert into bnglroffice values(4,'rohit',29);
+insert into bnglroffice values(5,'sachin',30);
+
+
+select * from hydoffice;
+
+select * from bnglroffice 
+union all
+select * from hydoffice;
+
+select * from bnglroffice 
+union 
+select * from hydoffice;
+
+
+
+select * from bnglroffice 
+intersect
+select * from hydoffice;
+
+
+select * from bnglroffice 
+minus
+select * from hydoffice;
+
+select * from hydoffice
+minus
+select * from bnglroffice; 
+
+
+
+
+
+//increment
+
+
+
+create sequence productsequence
+
+minvalue 1 
+start with 1 
+increment by 1;
+
+create table employeell ( id number(10) primary key, name varchar2(30), age number (10), dept varchar2(30)
+
+);
+
+insert into employeell values (empid sequence.nextval, 'sachin', 30, 'hr'); insert into employeell values (empid sequence.nextval,'ravi', 32, 'developer');
+
+select from employeell;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

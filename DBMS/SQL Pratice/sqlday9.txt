@@ -1,0 +1,98 @@
+select * from emps;
+
+select * from emps where name like 'y%';
+
+select * from emps where name like '%e';
+
+select * from emps where name like '_h%';
+
+select * from emps where name like '%o';
+
+select * from emps;
+
+
+select round(100.23456,2) from emps;
+
+
+select round(100.54456,2) from emps;
+select round(100.234562) from emps;
+
+select round(100.23456,3) from emps;
+
+
+
+select id,name,salary,salary/30 from emps;
+
+select id,name,salary,salary/30,round(salary/30,2),round(salary/30) from emps;
+
+select trunc(100,2345,2)from dual;
+
+select trunc(100,2345,2)from dual;
+select trunc(100,2345)from dual;
+select trunc(100,6545)from dual;
+select trunc(10,2)from dual;
+
+select trunc(11,2)from dual;
+select mod(14,5)from dual;
+
+select mod(10,2)from dual;
+select mod(10,6)from dual;
+
+
+select id,name,replace(name,'a','e') from emps;
+
+select id,name,replace(name,'a','*') from emps;
+
+select id,name,replace(name,'e','a') from emps;
+
+update emps set dob='10-jan-1990' doj='1-11-2023' where id=1 from emps;
+
+select id,name,doj,doj-2,doj10 from emps;
+
+
+select id,name,sysdate-dob from emps;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select id,name dob,round((sysdate-dob)/365)as age from epms where round((sysdate-dob)/365)<35;
+
+select id,name dob,round((sysdate-dob)/365)as age from epms where round((sysdate-dob)/365)>35;
+
+
+select id,name,doj,round((months_between(sysdate.doj)) from emps;
+
+select next_day(sysdate,'saturday') from dual;
+
+select next_day('1-may-2024','saturday) from dual;
+
+select last_day('1-may-2024','saturday) from dual;
+
+select last_day('10-may-2024','saturday) from dual;
+
+select id,name,doj, to_char(doj,''mm/yy') from emps;
+
+
+select id,name,doj, to_char(doj,'dd month yyyy') from emps;
+
+
+select id,name,doj, to_char(doj,''mm/yyyy') from emps;
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Wipro\Dotnet\Dotnet pratice\ClassLibrary\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date

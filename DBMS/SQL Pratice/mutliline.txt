@@ -1,0 +1,32 @@
+select * from emps;
+
+
+select * from emps where salary>50000;
+
+
+select * from emps where name='yashu';
+
+select * from emps
+where salary>(select salary from emps where name='yashu');
+
+select * from emps
+where salary< any (select salary from emps where name='yashu');
+
+select salary from emps where age=25;
+select * from emps where id in (3,6,8,13);
+
+select * from emps where id > any (3,4,5);
+
+select * from emps where id > all (3,4,5);
+select * from emps
+where salary<(select max(salary) from emps);
+
+select * from emps
+where salary=(select max(salary) from emps);
+
+
+
+
+
+
+

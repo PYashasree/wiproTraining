@@ -1,0 +1,15 @@
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\Day18_Task1.exe.config
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\Day18_Task1.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\Day18_Task1.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.csproj.AssemblyReference.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.csproj.CoreCompileInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\EntityFramework.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\EntityFramework.xml
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Ta.A8CE4D80.Up2Date
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.Migrations.InitialCreate.resources
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.csproj.GenerateResource.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day18_Task1\Day18_Task1\obj\Debug\Day18_Task1.Migrations.BlogPost.resources

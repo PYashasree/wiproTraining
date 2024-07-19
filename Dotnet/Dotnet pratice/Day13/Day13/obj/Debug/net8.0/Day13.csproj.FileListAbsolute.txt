@@ -1,0 +1,4 @@
+C:\Wipro\Dotnet\Dotnet pratice\Day13\Day13\obj\Debug\net8.0\Day13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\Dotnet\Dotnet pratice\Day13\Day13\obj\Debug\net8.0\Day13.AssemblyInfoInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day13\Day13\obj\Debug\net8.0\Day13.AssemblyInfo.cs
+C:\Wipro\Dotnet\Dotnet pratice\Day13\Day13\obj\Debug\net8.0\Day13.csproj.CoreCompileInputs.cache

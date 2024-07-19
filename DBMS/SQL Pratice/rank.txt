@@ -1,0 +1,24 @@
+select * from emps;
+
+select id,name,salary,
+rank() over(order by salary) as giving_rank_based_on_salary
+from emps;
+
+select id,name,salary,
+rank() over(order by salary desc) as giving_rank_based_on_salary
+from emps;
+
+select id,name,salary,
+rank() over(partition by dept order salary desc) as giving_rank_based_on_salary
+from emps;
+
+select * from 
+(
+select id,name,dept,salary,rank(order by salary desc)as giving_rank_based_on_salary
+from emps
+)where giving_rank-based_on_salary=6;
+
+
+select id,name,salary,
+dense_rank() over(order by salary desc) as giving_rank_based_on_salary
+from emps;

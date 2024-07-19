@@ -1,0 +1,8 @@
+<table>
+    <tr *ngFor="let employee of employees" [ngStyle]="{'background-color': employee.salary < 5000 ? 'red' : 'green'}">
+      <td>{{ employee.firstName | title }}</td>
+      <td>{{ employee.country }}</td>
+      <td>{{ employee.salary | currency }}</td>
+    </tr>
+  </table>
+  

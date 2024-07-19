@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day5\\day5\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|solutionrelative:day5\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day5\\day5\\day5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|solutionrelative:day5\\day5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day5\\day5\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|solutionrelative:day5\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day5\\day5\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC78528-8B44-4AFC-A12D-FBB5E4B3D5D0}|Day5\\Day5.csproj|solutionrelative:day5\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day5",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Day5.csproj",
+              "RelativeDocumentMoniker": "Day5\\Day5.csproj",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Day5.csproj",
+              "RelativeToolTip": "Day5\\Day5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T09:48:34.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessModifier.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\AccessModifier.cs",
+              "RelativeDocumentMoniker": "Day5\\AccessModifier.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\AccessModifier.cs",
+              "RelativeToolTip": "Day5\\AccessModifier.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:46:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Queue.cs",
+              "RelativeDocumentMoniker": "Day5\\Queue.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Queue.cs",
+              "RelativeToolTip": "Day5\\Queue.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:45:12.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Stack.cs",
+              "RelativeDocumentMoniker": "Day5\\Stack.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day5\\Day5\\Stack.cs",
+              "RelativeToolTip": "Day5\\Stack.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:43:14.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

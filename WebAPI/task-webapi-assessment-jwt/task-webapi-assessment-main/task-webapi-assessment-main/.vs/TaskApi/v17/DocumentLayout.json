@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\taskdbcontext\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:taskdbcontext\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\repository\\authrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:repository\\authrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:controllers\\subtaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\problem.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:problem.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\taskapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:taskapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\migrations\\20240709174815_webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:migrations\\20240709174815_webapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|c:\\users\\hp\\downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\migrations\\20240710172130_authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE56376-0344-4918-B0E0-DBAAD6473AA6}|TaskApi.csproj|solutionrelative:migrations\\20240710172130_authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\TaskDbContext\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "TaskDbContext\\DataDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\TaskDbContext\\DataDbContext.cs",
+              "RelativeToolTip": "TaskDbContext\\DataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:31:02.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:59:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T11:29:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:28:24.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:01:55.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\ITaskRepository.cs",
+              "RelativeToolTip": "Repository\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:10:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Repository\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\IAuthService.cs",
+              "RelativeToolTip": "Repository\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:25:12.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRespository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\AuthRespository.cs",
+              "RelativeDocumentMoniker": "Repository\\AuthRespository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\AuthRespository.cs",
+              "RelativeToolTip": "Repository\\AuthRespository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:32:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "Repository\\TaskRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:25:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:15:00.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\SubTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubTaskController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\SubTaskController.cs",
+              "RelativeToolTip": "Controllers\\SubTaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:16:38.558Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:04:58.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240710172130_AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Migrations\\20240710172130_AuthUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240710172130_AuthUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Migrations\\20240710172130_AuthUser.cs",
+              "RelativeToolTip": "Migrations\\20240710172130_AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:21:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\SubTask.cs",
+              "RelativeDocumentMoniker": "Models\\SubTask.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\SubTask.cs",
+              "RelativeToolTip": "Models\\SubTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:09:33.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Models\\Tasks.cs",
+              "RelativeToolTip": "Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:08:34.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240709174815_WebApi.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Migrations\\20240709174815_WebApi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240709174815_WebApi.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\Migrations\\20240709174815_WebApi.cs",
+              "RelativeToolTip": "Migrations\\20240709174815_WebApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:48:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "problem.md",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\problem.md",
+              "RelativeDocumentMoniker": "problem.md",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\problem.md",
+              "RelativeToolTip": "problem.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-09T11:32:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskApi",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\TaskApi.csproj",
+              "RelativeDocumentMoniker": "TaskApi.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\task-webapi-assessment-main\\task-webapi-assessment-main\\task-webapi-assessment-main\\TaskApi.csproj",
+              "RelativeToolTip": "TaskApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T10:58:11.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

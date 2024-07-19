@@ -1,0 +1,41 @@
+.registration-form {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  padding: 20px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  flex: 1 1 45%;
+  position: relative;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input, 
+.form-group select {
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.form-group div {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+button {
+  width: 100px;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 20px;
+  align-self: center;
+}

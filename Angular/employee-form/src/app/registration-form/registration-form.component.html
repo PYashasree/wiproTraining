@@ -1,0 +1,66 @@
+<form [formGroup]="registrationForm" (ngSubmit)="onSubmit()" class="registration-form">
+  <div class="form-group">
+    <label for="firstName">First Name</label>
+    <input id="firstName" formControlName="firstName" />
+    <div *ngIf="registrationForm.get('firstName').invalid && registrationForm.get('firstName').touched">
+      <span *ngIf="registrationForm.get('firstName').errors?.required">Please provide First Name</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="middleName">Middle Name</label>
+    <input id="middleName" formControlName="middleName" />
+  </div>
+
+  <div class="form-group">
+    <label for="lastName">Last Name</label>
+    <input id="lastName" formControlName="lastName" />
+    <div *ngIf="registrationForm.get('lastName').invalid && registrationForm.get('lastName').touched">
+      <span *ngIf="registrationForm.get('lastName').errors?.required">Please provide Last Name</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="age">Age</label>
+    <input id="age" formControlName="age" type="number" />
+    <div *ngIf="registrationForm.get('age').invalid && registrationForm.get('age').touched">
+      <span *ngIf="registrationForm.get('age').errors?.required">Required and between 0 to 100</span>
+      <span *ngIf="registrationForm.get('age').errors?.min || registrationForm.get('age').errors?.max">Age must be between 0 and 100</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="dob">Date Of Birth</label>
+    <input id="dob" formControlName="dob" type="date" />
+  </div>
+
+  <div class="form-group">
+    <label for="emailId">Email Id</label>
+    <input id="emailId" formControlName="emailId" />
+    <div *ngIf="registrationForm.get('emailId').invalid && registrationForm.get('emailId').touched">
+      <span *ngIf="registrationForm.get('emailId').errors?.required">Please provide Email Id</span>
+      <span *ngIf="registrationForm.get('emailId').errors?.email || registrationForm.get('emailId').errors?.invalidEmail">Email id must be valid</span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="country">Country</label>
+    <select id="country" formControlName="country">
+      <option value="">Select Country</option>
+      <option value="UK">UK</option>
+      <option value="India">India</option>
+      <option value="Australia">Australia</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label>Gender</label>
+    <input type="radio" formControlName="gender" value="Male" /> Male
+    <input type="radio" formControlName="gender" value="Female" /> Female
+    <div *ngIf="registrationForm.get('gender').invalid && registrationForm.get('gender').touched">
+      <span>Please select gender</span>
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="registrationForm.invalid">Submit</button>
+</form>

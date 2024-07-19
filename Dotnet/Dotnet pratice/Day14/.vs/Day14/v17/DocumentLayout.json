@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day14\\day14\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|solutionrelative:day14\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\day14\\part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|solutionrelative:day14\\part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\day14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808B5C1F-340F-42D3-A7AC-46BF5BB56720}|Day14\\Day14.csproj|solutionrelative:day14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Event.cs",
+              "RelativeDocumentMoniker": "Day14\\Event.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Event.cs",
+              "RelativeToolTip": "Day14\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:48:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Part2.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Part2.cs",
+              "RelativeDocumentMoniker": "Day14\\Part2.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Part2.cs",
+              "RelativeToolTip": "Day14\\Part2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:47:53.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Program.cs",
+              "RelativeDocumentMoniker": "Day14\\Program.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day14\\Day14\\Program.cs",
+              "RelativeToolTip": "Day14\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:16:00.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

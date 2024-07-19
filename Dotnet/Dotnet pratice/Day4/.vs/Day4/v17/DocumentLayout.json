@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day4\\day4\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|solutionrelative:day4\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day4\\day4\\day4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|solutionrelative:day4\\day4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day4\\day4\\emphidingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|solutionrelative:day4\\emphidingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day4\\day4\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C466DEE1-B978-4D12-B3D4-64C41B70D17D}|Day4\\Day4.csproj|solutionrelative:day4\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day4",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Day4.csproj",
+              "RelativeDocumentMoniker": "Day4\\Day4.csproj",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Day4.csproj",
+              "RelativeToolTip": "Day4\\Day4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T09:42:22.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Interface.cs",
+              "RelativeDocumentMoniker": "Day4\\Interface.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Interface.cs",
+              "RelativeToolTip": "Day4\\Interface.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:38:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpHidingMethod.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\EmpHidingMethod.cs",
+              "RelativeDocumentMoniker": "Day4\\EmpHidingMethod.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\EmpHidingMethod.cs",
+              "RelativeToolTip": "Day4\\EmpHidingMethod.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:36:44.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Emp.cs",
+              "RelativeDocumentMoniker": "Day4\\Emp.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day4\\Day4\\Emp.cs",
+              "RelativeToolTip": "Day4\\Emp.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwDQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:29:18.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

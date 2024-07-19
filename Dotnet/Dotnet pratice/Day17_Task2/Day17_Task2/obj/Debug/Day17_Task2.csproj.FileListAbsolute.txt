@@ -1,0 +1,12 @@
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\Day17_Task2.exe.config
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\Day17_Task2.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\Day17_Task2.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\obj\Debug\Day17_Task2.csproj.AssemblyReference.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\obj\Debug\Day17_Task2.csproj.CoreCompileInputs.cache
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\obj\Debug\Day17_Task2.exe
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\obj\Debug\Day17_Task2.pdb
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\EntityFramework.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\EntityFramework.xml
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro\Dotnet\Dotnet pratice\Day17_Task2\Day17_Task2\obj\Debug\Day17_Ta.BFE721E2.Up2Date

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\migrations\\202406241400530_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\migrations\\202406241400530_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\day18_task1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD357E6A-5CAA-4A88-B51B-46D442639EAF}|Day18_Task1\\Day18_Task1.csproj|solutionrelative:day18_task1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202406241400530_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Migrations\\202406241400530_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\Migrations\\202406241400530_InitialCreate.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Migrations\\202406241400530_InitialCreate.cs",
+              "RelativeToolTip": "Day18_Task1\\Migrations\\202406241400530_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:44:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Day18_Task1\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:37:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\App.config",
+              "RelativeDocumentMoniker": "Day18_Task1\\App.config",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\App.config",
+              "RelativeToolTip": "Day18_Task1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T13:31:57.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\BloggingContext.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\BloggingContext.cs",
+              "RelativeToolTip": "Day18_Task1\\BloggingContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:39:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Post.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\Post.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Post.cs",
+              "RelativeToolTip": "Day18_Task1\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:37:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Blog.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\Blog.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Blog.cs",
+              "RelativeToolTip": "Day18_Task1\\Blog.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:36:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Day18_Task1\\Program.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day18_Task1\u0026Task2\\Day18_Task1\\Program.cs",
+              "RelativeToolTip": "Day18_Task1\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:35:09.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

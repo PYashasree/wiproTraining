@@ -1,0 +1,63 @@
+select * from emps;
+
+select * from depts;
+
+insert into depts values(3,'yashasree','admin');
+
+insert into depts values(4,'yash','developer');
+
+insert into depts values(5,'jyosh','finance');
+
+update emps set deptsid=4 where id=101;
+//inner join
+select * from emps
+inner join 
+depts
+on
+emps.depts id= depts.id;
+
+//left join
+select * from emps
+left outer join 
+depts
+on
+emps.depts id= depts.id;
+
+
+//right outer join
+select * from emps
+right outer join 
+depts
+on
+emps.depts id= depts.id;
+
+
+
+//full outer join
+select * from emps
+full outer join 
+depts
+on
+emps.depts id= depts.id;
+
+
+
+select e.id,e.name,e.salary,d.id as deptid,d.team as teamname
+from emps e
+inner join 
+dept d
+on e.deptid=d.id;
+
+
+
+select e.id,e.name,e.salary,d.id as deptid,d.team as teamname
+from emps e
+inner join 
+dept d
+on e.deptid=d.id;
+
+
+
+
+
+

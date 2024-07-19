@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Html_Css_Javascript\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|solutionrelative:employee_data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|solutionrelative:employee_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|C:\\Wipro\\Html_Css_Javascript\\Day1\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|Solution Items{136A59E1-59B5-40FB-9BD4-77530DB2A8D4}|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee_form.html",
+              "DocumentMoniker": "C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_form.html",
+              "RelativeDocumentMoniker": "employee_form.html",
+              "ToolTip": "C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_form.html",
+              "RelativeToolTip": "employee_form.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T10:53:47.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Wipro\\Html_Css_Javascript\\Day1\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "C:\\Wipro\\Html_Css_Javascript\\Day1\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T10:51:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employee_data.html",
+              "DocumentMoniker": "C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_data.html",
+              "RelativeDocumentMoniker": "employee_data.html",
+              "ToolTip": "C:\\Wipro\\Html_Css_Javascript\\Day1\\employee_data.html",
+              "RelativeToolTip": "employee_data.html",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T10:14:50.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

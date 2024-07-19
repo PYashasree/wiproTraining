@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day6\\day6\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|solutionrelative:day6\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day6\\day6\\day6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|solutionrelative:day6\\day6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day6\\day6\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|solutionrelative:day6\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|c:\\wipro\\dotnet\\dotnet pratice\\day6\\day6\\day6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{109F40C6-8558-4F29-BB49-1274B55D8C7A}|Day6\\Day6.csproj|solutionrelative:day6\\day6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Day6",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Day6.csproj",
+              "RelativeDocumentMoniker": "Day6\\Day6.csproj",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Day6.csproj",
+              "RelativeToolTip": "Day6\\Day6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:53:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day6",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Day6.csproj",
+              "RelativeDocumentMoniker": "Day6\\Day6.csproj",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Day6.csproj",
+              "RelativeToolTip": "Day6\\Day6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:53:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Lock.cs",
+              "RelativeDocumentMoniker": "Day6\\Lock.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\Lock.cs",
+              "RelativeToolTip": "Day6\\Lock.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwBoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:34:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountManager.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\BankAccountManager.cs",
+              "RelativeDocumentMoniker": "Day6\\BankAccountManager.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\Day6\\Day6\\BankAccountManager.cs",
+              "RelativeToolTip": "Day6\\BankAccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:49:45.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

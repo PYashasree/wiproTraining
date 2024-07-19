@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163EBB7C-E84B-41AF-A199-7B13ED53C6B4}|Customer\\ArithmticLibrary.csproj|c:\\wipro\\dotnet\\dotnet pratice\\classlibrary\\customer\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163EBB7C-E84B-41AF-A199-7B13ED53C6B4}|Customer\\ArithmticLibrary.csproj|solutionrelative:customer\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB00E660-1BAB-491A-8905-CD384DD07142}|ClassLibrary\\ClassLibrary.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\classlibrary\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB00E660-1BAB-491A-8905-CD384DD07142}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281BB5FC-A4D8-484C-B2A8-2C019E27AE4F}|ArithmeticTest\\ArithmeticTest.csproj|C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\arithmetictest\\arithmeticmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281BB5FC-A4D8-484C-B2A8-2C019E27AE4F}|ArithmeticTest\\ArithmeticTest.csproj|solutionrelative:arithmetictest\\arithmeticmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163EBB7C-E84B-41AF-A199-7B13ED53C6B4}|Customer\\ArithmticLibrary.csproj|c:\\wipro\\dotnet\\dotnet pratice\\classlibrary\\customer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163EBB7C-E84B-41AF-A199-7B13ED53C6B4}|Customer\\ArithmticLibrary.csproj|solutionrelative:customer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\Customer\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "Customer\\EmployeeTest.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\Customer\\EmployeeTest.cs",
+              "RelativeToolTip": "Customer\\EmployeeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:03:20.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\Customer\\Employee.cs",
+              "RelativeDocumentMoniker": "Customer\\Employee.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\Customer\\Employee.cs",
+              "RelativeToolTip": "Customer\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:46:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArithmeticMath.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\ArithmeticTest\\ArithmeticMath.cs",
+              "RelativeDocumentMoniker": "ArithmeticTest\\ArithmeticMath.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\ArithmeticTest\\ArithmeticMath.cs",
+              "RelativeToolTip": "ArithmeticTest\\ArithmeticMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:25:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\ClassLibrary\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Arithmetic.cs",
+              "ToolTip": "C:\\Wipro\\Dotnet\\Dotnet pratice\\ClassLibrary\\ClassLibrary\\Arithmetic.cs",
+              "RelativeToolTip": "ClassLibrary\\Arithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:20:03.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+create table emp4
+(
+id int primary key,
+name varchar2(30) not null,
+email varchar(50) unique,
+mobileno varchar2(35) unique,
+salary number(30) check(salary>0)
+);
+desc emp4;
+
+insert into emp4 values(1,'yashu','yashu@gmail.com',9346260466,50000);
+
+insert into emp4 values(2,'yashasree','yashasree@gmail.com',9346260486,60000);
+
+select * from emp4;
+
+
+
+
+create table emp5
+(
+id number(10),
+name varchar(30),
+salary number(10),
+constraint pk1 primary key(id)
+);
+
+insert into emp5 values(1,'sachin',50000);
+
+select * from emp5;
+
+
+create table depts
+(
+id number(10) primary key,
+name varchar2(10),
+manger varchar2(30)
+);
+
+create table empe
+(
+id number(10),
+name varchar2(30),
+age number(10),
+salary number(10),
+deptsid number(10),
+constraint fk1 foreign key(deptsid) references depts(id) on delete cascade
+);
+
+insert into depts values(1,'yashu','hr');
+
+
+insert into depts values(2,'sree','team');
+
+
+insert into empe values(100,'yasharee',25,40000,1);
+
+insert into empe values(101,'yash',26,500000,1);
+
+insert into empe values(102,'sony',28,80000,2);
+
+select * from empe;
+
+
+
+
+create table empe
+(
+id number(10),
+name varchar2(30),
+age number(10),
+salary number(10),
+deptsid number(10),
+constraint fk1 foreign key(deptsid) references depts(id) on delete set null
+);
+
+
+insert into empe values(105,'yashu',30,58000,2);
+
+drop table empe;
+
